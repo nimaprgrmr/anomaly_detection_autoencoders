@@ -30,11 +30,11 @@ This repository contains a project for detecting anomalies in time series data u
    pip install -r requirements.txt
 
 ## Usage
-   1- Prepare your data:
-      Place your time series data in the appropriate format as required by the preprocess.py script.
-   2- Run the main script:
-   
-      python main.py
+1. **Prepare your data:**
+      Place your time series data in the appropriate format as required by the preprocess.py script. 
+2. **Run the main script:**
+   ``sh
+   python main.py
 
 The script will preprocess the data, train the Autoencoder model, and detect anomalies in the data.
 
