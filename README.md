@@ -10,6 +10,7 @@ This repository contains a project for detecting anomalies in time series data u
     - `model.py` - Contains the definition of the Autoencoder model.
     - `preprocess.py` - Contains functions for preprocessing the data.
 - `.gitignore` - Specifies files and directories to be ignored by Git.
+- `requirements.txt` - All require packages for run this code.
 - `README.md` - This file.
 
 ## Installation
